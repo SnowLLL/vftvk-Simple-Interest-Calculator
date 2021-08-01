@@ -1,4 +1,4 @@
-# [Simple Interest Calculator](https://snowlll.github.io/vftvk-Simple-Interest-Calculator/)
+# [Simple Interest Calculator](https://snowlll.github.io/vftvk-Simple-Interest-Calculator/):moneybag:
 
 ```diff
 + TECH STACK
